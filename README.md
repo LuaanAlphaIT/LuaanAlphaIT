@@ -32,6 +32,7 @@ Bước 3:
 Trò chơi bao gồm các thành phần: Nhân vật, vật cản.
 
 Hướng dẫn: Người chơi điều khiển nhân vật bằng các phím để nhân vật đến đích (trước chỗ công chúa ở trên cao), nếu lỡ bị ngã sẽ phải nhảy lại. Nhảy qua một đoạn cảnh quan sẽ thay đổi, người chơi cần phải lên để biết được vật cản tiếp theo nhảy đến. Người chơi chiến thắng khi đến được đích.
+![alt](https://f17-zpc.zdn.vn/3264803302789629677/879e4b7bccce0d9054df.jpg)
 
       Phím X: Di chuyển sang bên trái.
 
