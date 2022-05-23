@@ -19,12 +19,12 @@ Bước 2: Vào Code - vào Download ZIP - Giải nén file vừa tải.
 Bước 3: 
 
       Vào file vừa giải nén, chọn Debug, chọn Jump_King.exe để chơi game.
-      ![alt](https://f3.photo.talk.zdn.vn/4574145832592386618/9f8c87a1e1fb21a578ea.jpg)
+![alt](https://f3.photo.talk.zdn.vn/4574145832592386618/9f8c87a1e1fb21a578ea.jpg)
       
       hoặc
 
       Vào file vừa giải nén, chọn Jump_King.sln để chạy trên Visual Studio.
-      ![alt](https://user-images.githubusercontent.com/100125009/169789700-c5657a78-2680-44ab-b524-dbaf6f5b4a9c.png)
+![alt](https://f3.photo.talk.zdn.vn/4574145832592386618/9f8c87a1e1fb21a578ea.jpg)
 
 
 2. Mô tả chung về trò chơi, các ý tưởng chính.
