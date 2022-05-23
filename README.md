@@ -1,4 +1,4 @@
-Jump King
+JUMP KING
 
 Dự án game môn Lập trình nâng cao INT2215 1
 
