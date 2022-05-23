@@ -11,6 +11,7 @@ Lớp: K66CC
 1. Hướng dẫn cài đặt: cách lấy chương trình về, tất cả các câu lệnh, cài đặt để có thể chạy được chương trình.
 
 Bước 1: Truy cập link https://github.com/LuaanAlphaIT/LuaanAlphaIT.
+![alt](https://f14.photo.talk.zdn.vn/4854267835492606080/e2f80e867bdcbb82e2cd.jpg)
 
 Bước 2: Vào Code - vào Download ZIP - Giải nén file vừa tải.
 
