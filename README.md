@@ -1,4 +1,4 @@
-# **JUMP KING
+# **JUMP KING**
 
 **Dự án game môn Lập trình nâng cao INT2215 1**
 
@@ -54,7 +54,17 @@ Video minh họa: https://www.youtube.com/watch?v=2E-RGGl0fZA.
 
 ### **4. Các kỹ thuật lập trình được sử dụng trong chương trình (mảng, con trỏ, cấu trúc, lớp, đồ họa ...)**
 
-Sử dụng class, struct, con trỏ, mảng, tệp; đồ họa, âm thanh, hình ảnh SDL 2.0.
+class:
+
+      BaseObject: lưu ảnh và vị trí của background.
+      
+      TileMat: class kế thừa của BaseObject.
+      
+      GameMap: lưu ảnh vật cản và vị trí của vật cản.
+      
+      MainObject: lưu hình ảnh, xử lí chuyển động nhân vật và hiệu ứng nhân vật.
+      
+
 
 ### **5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình**
 
@@ -68,7 +78,7 @@ Nguồn :
 
       Âm thanh: Em tải âm thanh trên youtube
 
-Hướng phát triển: Làm thêm nhiều màn khác, tạo thêm nhiều chế độ như động đất, gió thổi, băng trơn, cát lún, ..., chỉnh sửa tile map để game khó chơi.
+Hướng phát triển: Làm thêm nhiều màn khác, tạo thêm nhiều chế độ như động đất, gió thổi, băng trơn, cát lún, ..., chỉnh sửa tile map để game khó chơi, cải thiện va chạm khi đâm vào vật cản.
 
 Các điều tâm đắc rút ra: Em cải thiện được khả năng code, lần đầu làm một chương trình lớn, chia tách file .cpp và .h, hoàn thành một chương trình lớn.
 
