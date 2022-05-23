@@ -1,14 +1,14 @@
-###**JUMP KING
+# **JUMP KING
 
-Dự án game môn Lập trình nâng cao INT2215 1
+**Dự án game môn Lập trình nâng cao INT2215 1
 
-Tên sinh viên: Bùi Đức Luân
+**Tên sinh viên: Bùi Đức Luân
 
-MSV: 21020775
+**MSV: 21020775
 
-Lớp: K66CC
+**Lớp: K66CC
 
-1. Hướng dẫn cài đặt: cách lấy chương trình về, tất cả các câu lệnh, cài đặt để có thể chạy được chương trình.
+### **1. Hướng dẫn cài đặt: cách lấy chương trình về, tất cả các câu lệnh, cài đặt để có thể chạy được chương trình.
 
 Bước 1: Truy cập link https://github.com/LuaanAlphaIT/LuaanAlphaIT.
 ![alt](https://f14.photo.talk.zdn.vn/4854267835492606080/e2f80e867bdcbb82e2cd.jpg)
@@ -27,7 +27,7 @@ Bước 3:
 ![alt](https://f3.photo.talk.zdn.vn/4574145832592386618/9f8c87a1e1fb21a578ea.jpg)
 
 
-2. Mô tả chung về trò chơi, các ý tưởng chính.
+### **2. Mô tả chung về trò chơi, các ý tưởng chính.
 
 Trò chơi bao gồm các thành phần: Nhân vật, vật cản.
 
@@ -46,17 +46,17 @@ Hướng dẫn: Người chơi điều khiển nhân vật bằng các phím đ�
 
 Các ý tưởng: Game dựa trên trò chơi Jump King được phát triển bởi Nexile, nhân vật sẽ nhảy từ nơi có cảnh quan mùa hè, đến mùa thu, đến mùa đông, đến núi tuyết, đến bầu trời, đến lâu đài trên mây, đến đỉnh tháp lâu đài nơi công chúa đang đứng chờ.
 
-3. Mô tả các chức năng đã cài đặt, kèm video minh họa (chèn link video youtube)
+### **3. Mô tả các chức năng đã cài đặt, kèm video minh họa (chèn link video youtube)
 
 Các chức năng: Chơi lại trò chơi sau khi đã chiến thắng, bật tắt âm thanh trò chơi, thoát game, lưu lại vị trí người chơi lúc thoát game.
 
 Video minh họa: https://www.youtube.com/watch?v=2E-RGGl0fZA.
 
-4. Các kỹ thuật lập trình được sử dụng trong chương trình (mảng, con trỏ, cấu trúc, lớp, đồ họa ...)
+### **4. Các kỹ thuật lập trình được sử dụng trong chương trình (mảng, con trỏ, cấu trúc, lớp, đồ họa ...)
 
 Sử dụng class, struct, con trỏ, mảng, tệp; đồ họa, âm thanh, hình ảnh SDL 2.0.
 
-5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
+### **5. Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
 
 Kết luận: Game có đồ họa, âm thanh khá ổn, xử lí va chạm tốt, chương trình game chạy mượt.
 
