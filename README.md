@@ -14,14 +14,18 @@ Bước 1: Truy cập link https://github.com/LuaanAlphaIT/LuaanAlphaIT.
 ![alt](https://f14.photo.talk.zdn.vn/4854267835492606080/e2f80e867bdcbb82e2cd.jpg)
 
 Bước 2: Vào Code - vào Download ZIP - Giải nén file vừa tải.
+![alt](https://f25-zpc.zdn.vn/4477391188524102423/622a918aedd02d8e74c1.jpg)
 
 Bước 3: 
 
       Vào file vừa giải nén, chọn Debug, chọn Jump_King.exe để chơi game.
+      ![alt](https://f3.photo.talk.zdn.vn/4574145832592386618/9f8c87a1e1fb21a578ea.jpg)
       
       hoặc
 
       Vào file vừa giải nén, chọn Jump_King.sln để chạy trên Visual Studio.
+      ![alt](https://user-images.githubusercontent.com/100125009/169789700-c5657a78-2680-44ab-b524-dbaf6f5b4a9c.png)
+
 
 2. Mô tả chung về trò chơi, các ý tưởng chính.
 
