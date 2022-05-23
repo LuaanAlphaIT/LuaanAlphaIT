@@ -44,7 +44,7 @@ Các ý tưởng: Game dựa trên trò chơi Jump King được phát triển b
 
 Các chức năng: Chơi lại trò chơi sau khi đã chiến thắng, bật tắt âm thanh trò chơi, thoát game, lưu lại vị trí người chơi lúc thoát game.
 
-Video minh họa: 
+Video minh họa: https://www.youtube.com/watch?v=2E-RGGl0fZA.
 
 4. Các kỹ thuật lập trình được sử dụng trong chương trình (mảng, con trỏ, cấu trúc, lớp, đồ họa ...)
 
