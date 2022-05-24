@@ -24,7 +24,7 @@ Bước 3:
       hoặc
 
       Vào file vừa giải nén, chọn Jump_King.sln để chạy trên Visual Studio.
-![alt](https://f17-zpc.zdn.vn/14056306441103204/f3fa03528633466d1f22.jpg
+![alt](https://f17-zpc.zdn.vn/14056306441103204/f3fa03528633466d1f22.jpg)
 
 
 ### **2. Mô tả chung về trò chơi, các ý tưởng chính.**
